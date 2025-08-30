@@ -1,9 +1,8 @@
-# Dual-TL
 
 <div align="center">
-</div>Dual-path TokenLearner for Remote Photoplethysmography-based Physiological Measurement with Facial Videos</h1>
+<h1>Dual-path TokenLearner for Remote Photoplethysmography-based Physiological Measurement with Facial Videos</h1>
 
-[**Wei Qian**](), [**Dan Guo**](https://scholar.google.com/citations?user=DsEONuMAAAAJ), [**Kun Li**](https://scholar.google.com/citations?user=UQ_bInoAAAAJ), [**Xiaowei Zhang**](), [**Xilan Tian**](), [**Xun Yang**](),  [**Meng Wang**](https://scholar.google.com/citations?user=rHagaaIAAAAJ)<sup> :email: </sup>
+[**Wei Qian**](), [**Dan Guo**](https://scholar.google.com/citations?user=DsEONuMAAAAJ)<sup> :email: </sup>, [**Kun Li**](https://scholar.google.com/citations?user=UQ_bInoAAAAJ), [**Xiaowei Zhang**](), [**Xilan Tian**](), [**Xun Yang**](),  [**Meng Wang**](https://scholar.google.com/citations?user=rHagaaIAAAAJ)<sup> :email: </sup>
 
 
 
@@ -13,3 +12,4 @@
 ![GitHub stars](https://img.shields.io/github/stars/VUT-HFUT/Dual-TL?style=flat&color=yellow)
 
 </div>
+
