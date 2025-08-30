@@ -12,3 +12,4 @@
 ![GitHub issues](https://img.shields.io/github/issues-raw/VUT-HFUT/Dual-TL?color=%23FF9600)
 ![GitHub stars](https://img.shields.io/github/stars/VUT-HFUT/Dual-TL?style=flat&color=yellow)
 
+</div>
